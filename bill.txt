@@ -1,0 +1,523 @@
+
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 11-12-2025   Time: 22:29:21
+-----------------------------------------------
+Sugar               Qty: 2    Price: Rs. 500
+Poha                Qty: 2    Price: Rs. 840
+-----------------------------------------------
+Subtotal: Rs. 1340
+Discount: Rs. 0
+Grand Total: Rs. 1340
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 18:44:30
+-----------------------------------------------
+Sugar               Qty: 1 kg   Price: Rs. 45
+Milk                Qty: 2 litre   Price: Rs. 130
+Refined Oil         Qty: 4 litre   Price: Rs. 620
+Tea                 Qty: 6 packet   Price: Rs. 240
+Tata Salt           Qty: 4 kg   Price: Rs. 104
+Coffee              Qty: 7 jar   Price: Rs. 840
+Poha                Qty: 6 kg   Price: Rs. 330
+Maida               Qty: 5 kg   Price: Rs. 150
+Maida               Qty: 4 kg   Price: Rs. 120
+Amul Butter         Qty: 5 packet   Price: Rs. 280
+Eggs                Qty: 5 piece   Price: Rs. 30
+-----------------------------------------------
+Subtotal: Rs. 2889
+Discount: Rs. 144.45
+Grand Total: Rs. 2744.55
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 18:46:37
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Poha                Qty: 3 kg   Price: Rs. 165
+Coffee              Qty: 3 jar   Price: Rs. 360
+Poha                Qty: 5 kg   Price: Rs. 275
+Refined Oil         Qty: 5 litre   Price: Rs. 775
+Tea                 Qty: 5 packet   Price: Rs. 200
+Coffee              Qty: 6 jar   Price: Rs. 720
+Tea                 Qty: 6 packet   Price: Rs. 240
+Refined Oil         Qty: 4 litre   Price: Rs. 620
+Coffee              Qty: 4 jar   Price: Rs. 480
+Coffee              Qty: 4 jar   Price: Rs. 480
+-----------------------------------------------
+Subtotal: Rs. 4405
+Discount: Rs. 220.25
+Grand Total: Rs. 4184.75
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 19:22:57
+-----------------------------------------------
+Milk                Qty: 3 litre   Price: Rs. 195
+Tea                 Qty: 3 packet   Price: Rs. 120
+Milk                Qty: 4 litre   Price: Rs. 260
+Tea                 Qty: 5 packet   Price: Rs. 200
+Milk                Qty: 4 litre   Price: Rs. 260
+Milk                Qty: 5 litre   Price: Rs. 325
+Poha                Qty: 7 kg   Price: Rs. 385
+Refined Oil         Qty: 5 litre   Price: Rs. 775
+Tea                 Qty: 7 packet   Price: Rs. 280
+-----------------------------------------------
+Subtotal: Rs. 2800
+Discount: Rs. 140
+Grand Total: Rs. 2660
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 19:27:50
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Sugar               Qty: 3 kg   Price: Rs. 135
+Milk                Qty: 1 litre   Price: Rs. 65
+Coffee              Qty: 7 jar   Price: Rs. 840
+-----------------------------------------------
+Subtotal: Rs. 1265
+Discount: Rs. 0
+Grand Total: Rs. 1265
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 19:35:28
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Poha                Qty: 2 kg   Price: Rs. 110
+Tea                 Qty: 5 packet   Price: Rs. 200
+Tata Salt           Qty: 4 kg   Price: Rs. 104
+Tea                 Qty: 6 packet   Price: Rs. 240
+Tata Salt           Qty: 4 kg   Price: Rs. 104
+Refined Oil         Qty: 4 litre   Price: Rs. 620
+-----------------------------------------------
+Subtotal: Rs. 1603
+Discount: Rs. 0
+Grand Total: Rs. 1603
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 19:48:51
+-----------------------------------------------
+Sugar               Qty: 3 kg   Price: Rs. 135
+Coffee              Qty: 6 jar   Price: Rs. 720
+Refined Oil         Qty: 5 litre   Price: Rs. 775
+Tata Salt           Qty: 4 kg   Price: Rs. 104
+Refined Oil         Qty: 5 litre   Price: Rs. 775
+Refined Oil         Qty: 6 litre   Price: Rs. 930
+Maida               Qty: 5 kg   Price: Rs. 150
+Coffee              Qty: 7 jar   Price: Rs. 840
+Eggs                Qty: 40 piece   Price: Rs. 240
+-----------------------------------------------
+Subtotal: Rs. 4669
+Discount: Rs. 233.45
+Grand Total: Rs. 4435.55
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 19:51:37
+-----------------------------------------------
+Sugar               Qty: 10 kg   Price: Rs. 450
+Milk                Qty: 4 litre   Price: Rs. 260
+Poha                Qty: 2 kg   Price: Rs. 110
+Coffee              Qty: 1 jar   Price: Rs. 120
+Tata Salt           Qty: 1 kg   Price: Rs. 26
+Refined Oil         Qty: 4 litre   Price: Rs. 620
+Maida               Qty: 5 kg   Price: Rs. 150
+Amul Butter         Qty: 56 packet   Price: Rs. 3136
+Eggs                Qty: 10 piece   Price: Rs. 60
+-----------------------------------------------
+Subtotal: Rs. 4932
+Discount: Rs. 246.6
+Grand Total: Rs. 4685.4
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 19:51:43
+-----------------------------------------------
+Sugar               Qty: 10 kg   Price: Rs. 450
+Milk                Qty: 4 litre   Price: Rs. 260
+Poha                Qty: 2 kg   Price: Rs. 110
+Coffee              Qty: 1 jar   Price: Rs. 120
+Tata Salt           Qty: 1 kg   Price: Rs. 26
+Refined Oil         Qty: 4 litre   Price: Rs. 620
+Maida               Qty: 5 kg   Price: Rs. 150
+Amul Butter         Qty: 56 packet   Price: Rs. 3136
+Eggs                Qty: 10 piece   Price: Rs. 60
+-----------------------------------------------
+Subtotal: Rs. 4932
+Discount: Rs. 246.6
+Grand Total: Rs. 4685.4
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 19:51:45
+-----------------------------------------------
+Sugar               Qty: 10 kg   Price: Rs. 450
+Milk                Qty: 4 litre   Price: Rs. 260
+Poha                Qty: 2 kg   Price: Rs. 110
+Coffee              Qty: 1 jar   Price: Rs. 120
+Tata Salt           Qty: 1 kg   Price: Rs. 26
+Refined Oil         Qty: 4 litre   Price: Rs. 620
+Maida               Qty: 5 kg   Price: Rs. 150
+Amul Butter         Qty: 56 packet   Price: Rs. 3136
+Eggs                Qty: 10 piece   Price: Rs. 60
+-----------------------------------------------
+Subtotal: Rs. 4932
+Discount: Rs. 246.6
+Grand Total: Rs. 4685.4
+===============================================
+
+
+
+
+----- NEW RUN -----
+
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 20:33:36
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Poha                Qty: 4 kg   Price: Rs. 220
+Eggs                Qty: 20 piece   Price: Rs. 120
+-----------------------------------------------
+Subtotal: Rs. 430
+Discount: Rs. 0
+Grand Total: Rs. 430
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 20:59:12
+-----------------------------------------------
+Sugar               Qty: 1 kg   Price: Rs. 45
+Eggs                Qty: 20 piece   Price: Rs. 120
+Poha                Qty: 5 kg   Price: Rs. 275
+Coffee              Qty: 4 jar   Price: Rs. 480
+Tata Salt           Qty: 1 kg   Price: Rs. 26
+Refined Oil         Qty: 10 litre   Price: Rs. 1550
+Maida               Qty: 2 kg   Price: Rs. 60
+Amul Butter         Qty: 2 packet   Price: Rs. 112
+Eggs                Qty: 20 piece   Price: Rs. 120
+-----------------------------------------------
+Subtotal: Rs. 2788
+Discount: Rs. 139.4
+Grand Total: Rs. 2648.6
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 21:02:03
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+-----------------------------------------------
+Subtotal: Rs. 90
+Discount: Rs. 0
+Grand Total: Rs. 90
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 21:16:55
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+-----------------------------------------------
+Subtotal: Rs. 90
+Discount: Rs. 0
+Grand Total: Rs. 90
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 21:19:06
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+-----------------------------------------------
+Subtotal: Rs. 225
+Discount: Rs. 0
+Grand Total: Rs. 225
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 21:53:52
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Milk                Qty: 1 litre   Price: Rs. 65
+Eggs                Qty: 10 piece   Price: Rs. 60
+-----------------------------------------------
+Subtotal: Rs. 350
+Discount: Rs. 0
+Grand Total: Rs. 350
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 22:22:39
+-----------------------------------------------
+Sugar               Qty: 3 kg   Price: Rs. 135
+Milk                Qty: 1 litre   Price: Rs. 65
+Poha                Qty: 2 kg   Price: Rs. 110
+Tea                 Qty: 3 packet   Price: Rs. 120
+-----------------------------------------------
+Subtotal: Rs. 430
+Discount: Rs. 0
+Grand Total: Rs. 430
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 22:31:05
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Milk                Qty: 1 litre   Price: Rs. 65
+Poha                Qty: 4 kg   Price: Rs. 220
+-----------------------------------------------
+Subtotal: Rs. 510
+Discount: Rs. 0
+Grand Total: Rs. 510
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 23:02:37
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Milk                Qty: 1 litre   Price: Rs. 65
+-----------------------------------------------
+Subtotal: Rs. 290
+Discount: Rs. 0
+Grand Total: Rs. 290
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 23:17:39
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Milk                Qty: 3 litre   Price: Rs. 195
+Poha                Qty: 2 kg   Price: Rs. 110
+Tea                 Qty: 5 packet (100g)   Price: Rs. 200
+-----------------------------------------------
+Subtotal: Rs. 730
+Discount: Rs. 0
+Grand Total: Rs. 730
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 23:36:48
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Milk                Qty: 1 litre   Price: Rs. 65
+Poha                Qty: 4 kg   Price: Rs. 220
+Tea                 Qty: 5  (100g) packet   Price: Rs. 200
+Coffee              Qty: 2  (100g) packet   Price: Rs. 240
+Tata Salt           Qty: 1 kg   Price: Rs. 26
+Refined Oil         Qty: 5 litre   Price: Rs. 775
+Maida               Qty: 4 kg   Price: Rs. 120
+Amul Butter         Qty: 5  (100g) packet   Price: Rs. 280
+Eggs                Qty: 10 piece   Price: Rs. 60
+-----------------------------------------------
+Subtotal: Rs. 2211
+Discount: Rs. 110.55
+Grand Total: Rs. 2100.45
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 23:39:25
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Milk                Qty: 2 litre   Price: Rs. 130
+Poha                Qty: 2 kg   Price: Rs. 110
+Tea                 Qty: 2 (100g) packet   Price: Rs. 80
+Coffee              Qty: 2 (100g) packet   Price: Rs. 240
+-----------------------------------------------
+Subtotal: Rs. 785
+Discount: Rs. 0
+Grand Total: Rs. 785
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 23:42:22
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Milk                Qty: 1 litre   Price: Rs. 65
+Poha                Qty: 2 kg   Price: Rs. 110
+Tea                 Qty: 3 per packet(100g)   Price: Rs. 120
+Coffee              Qty: 3 per packet(100g)   Price: Rs. 360
+Tata Salt           Qty: 3 kg   Price: Rs. 78
+Refined Oil         Qty: 5 litre   Price: Rs. 775
+Maida               Qty: 4 kg   Price: Rs. 120
+Amul Butter         Qty: 5 per packet(100g)   Price: Rs. 280
+Eggs                Qty: 10 piece   Price: Rs. 60
+-----------------------------------------------
+Subtotal: Rs. 2193
+Discount: Rs. 109.65
+Grand Total: Rs. 2083.35
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 23:50:25
+-----------------------------------------------
+Milk                Qty: 3 litre   Price: Rs. 195
+Tea                 Qty: 5  packet(100g)   Price: Rs. 200
+Coffee              Qty: 5  packet(100g)   Price: Rs. 600
+Amul Butter         Qty: 10  packet(100g)   Price: Rs. 560
+-----------------------------------------------
+Subtotal: Rs. 1555
+Discount: Rs. 0
+Grand Total: Rs. 1555
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 14-12-2025   Time: 23:54:48
+-----------------------------------------------
+Sugar               Qty: 5 kg   Price: Rs. 225
+Milk                Qty: 3 litre   Price: Rs. 195
+Poha                Qty: 3 kg   Price: Rs. 165
+Tea                 Qty: 4 packet(100g)   Price: Rs. 160
+Coffee              Qty: 4 packet(100g)   Price: Rs. 480
+Tata Salt           Qty: 2 kg   Price: Rs. 52
+Refined Oil         Qty: 5 litre   Price: Rs. 775
+Amul Butter         Qty: 4 packet(100g)   Price: Rs. 224
+Eggs                Qty: 10 piece   Price: Rs. 60
+-----------------------------------------------
+Subtotal: Rs. 2336
+Discount: Rs. 116.8
+Grand Total: Rs. 2219.2
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 11:26:06
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Milk                Qty: 2 litre   Price: Rs. 130
+Refined Oil         Qty: 1 litre   Price: Rs. 155
+Poha                Qty: 2 kg   Price: Rs. 110
+Tata Salt           Qty: 4 kg   Price: Rs. 104
+Maida               Qty: 2 kg   Price: Rs. 60
+-----------------------------------------------
+Subtotal: Rs. 649
+Discount: Rs. 0
+Grand Total: Rs. 649
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 11:35:26
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Milk                Qty: 2 litre   Price: Rs. 130
+Refined Oil         Qty: 1 litre   Price: Rs. 155
+-----------------------------------------------
+Subtotal: Rs. 375
+Discount: Rs. 0
+Grand Total: Rs. 375
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 11:37:45
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Milk                Qty: 2 litre   Price: Rs. 130
+-----------------------------------------------
+Subtotal: Rs. 220
+Discount: Rs. 0
+Grand Total: Rs. 220
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 11:40:11
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Milk                Qty: 2 litre   Price: Rs. 130
+-----------------------------------------------
+Subtotal: Rs. 220
+Discount: Rs. 0
+Grand Total: Rs. 220
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 11:44:06
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Milk                Qty: 2 litre   Price: Rs. 130
+-----------------------------------------------
+Subtotal: Rs. 220
+Discount: Rs. 0
+Grand Total: Rs. 220
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 12:03:30
+-----------------------------------------------
+Sugar               Qty: 2 kg      Price: Rs. 90
+Milk                Qty: 1 litre   Price: Rs. 65
+-----------------------------------------------
+Subtotal: Rs. 155
+Discount: Rs. 0
+Grand Total: Rs. 155
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 12:04:40
+-----------------------------------------------
+Milk                Qty: 3 litre   Price: Rs. 195
+Poha                Qty: 2 kg      Price: Rs. 110
+Milk                Qty: 2 litre   Price: Rs. 130
+-----------------------------------------------
+Subtotal: Rs. 435
+Discount: Rs. 0
+Grand Total: Rs. 435
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 12:18:42
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Poha                Qty: 2 kg   Price: Rs. 110
+Tata Salt           Qty: 5 kg   Price: Rs. 130
+Maida               Qty: 4 kg   Price: Rs. 120
+-----------------------------------------------
+Subtotal: Rs. 450
+Discount: Rs. 0
+Grand Total: Rs. 450
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 12:22:26
+-----------------------------------------------
+Sugar               Qty: 2 kg             Price: Rs. 90
+Milk                Qty: 2 litre          Price: Rs. 130
+Poha                Qty: 2 kg             Price: Rs. 110
+Tea                 Qty: 2 packet(100g)   Price: Rs. 80
+Amul Butter         Qty: 2 packet(100g)   Price: Rs. 112
+Eggs                Qty: 10 piece         Price: Rs. 60
+Coffee              Qty: 8 packet(100g)   Price: Rs. 960
+Refined Oil         Qty: 5 litre          Price: Rs. 775
+Maida               Qty: 8 kg             Price: Rs. 240
+-----------------------------------------------
+Subtotal: Rs. 2557
+Discount: Rs. 127.85
+Grand Total: Rs. 2429.15
+===============================================
+
+
+
+
+
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 13:12:59
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Milk                Qty: 2 litre   Price: Rs. 130
+-----------------------------------------------
+Subtotal: Rs. 220
+Discount: Rs. 0
+Grand Total: Rs. 220
+===============================================
+
+=========== APNA GROCERY STORE BILL ===========
+Date: 15-12-2025   Time: 13:35:28
+-----------------------------------------------
+Sugar               Qty: 2 kg   Price: Rs. 90
+Poha                Qty: 5 kg   Price: Rs. 275
+-----------------------------------------------
+Subtotal: Rs. 365
+Discount: Rs. 0
+Grand Total: Rs. 365
+===============================================
+
