@@ -1,4 +1,4 @@
-# 🛒 Apna Grocery Store Billing System
+# 🛒 A Grocery Store Billing System
 
 A console-based Grocery Store Billing System developed in **C++** using **Object-Oriented Programming (OOP)** principles.
 
