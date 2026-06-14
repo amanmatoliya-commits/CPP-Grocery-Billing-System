@@ -104,8 +104,26 @@ billing.exe
 
 ---
 
+## 📚 Learning Outcomes
+
+Through this project, I gained practical experience with:
+
+* Object-Oriented Programming (OOP)
+* Class design and encapsulation
+* File handling in C++
+* Modular project organization
+* Bill generation and data processing
+* Using Git and GitHub for version control
+
+
+
 ## 👨‍💻 Author
 
 **Aman Matoliya**
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering (CSE)
+
+Passionate about C++, Data Structures, Web Development, and Software Engineering.
+
+GitHub: @amanmatoliya-commits
+
